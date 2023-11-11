@@ -1,0 +1,138 @@
+@media (max-width:1327px) {
+    .navber-nav li a {
+       
+        font-size: 15px;
+    }
+    .banner-img img {
+        padding: 50px 10px;
+                width: 16%;
+    }
+
+}
+@media (max-width:1400px) {
+    .banner-img img {
+
+                width: 16%;
+    }
+}
+@media (max-width:1304px) {
+    .navber-nav li a {
+        font-size: 13px;
+        
+    }
+    .navber-nav li {
+        margin: 0px 10px;
+        
+    }
+}
+@media (max-width:1117px) {
+    .navber-nav li {
+        margin: 0px 3px;
+    }
+    .navber-nav {
+   
+        padding-left: 0;
+
+    }
+}
+@media (max-width:1440px) {}
+@media (max-width:1280px) {
+    .slider-info h1 {
+        font-size: 57px;
+        padding: 10px 0px;
+    }
+    .touch-section {
+        padding: 34px 19px;
+       
+    }
+    .section-text {
+        margin-left: 76px;
+    }
+    .navber-nav li a {
+        font-size: 17px;
+    }
+}
+@media (max-width:1117px) {
+    .navber-nav li a {
+        font-size: 14px;
+        padding: 0px 5px;
+    }
+    .finix-text h2 {
+        font-size: 35px;
+    }
+    .finix-text {
+
+        margin-left: 45px;
+    }
+    .touch-section strong {
+        font-size: 17px;
+    }
+    .section-text {
+        margin-left: 143px;
+    }
+    .section-text p {
+        font-size: 14px;
+    }
+}
+@media (max-width:1080px) {
+    .contact-icon ul li span {
+        padding: 0px 8px;
+    }
+    .ContactUs ul li {
+        padding: 0px 0px;
+    }
+}
+@media (max-width:900px) {
+    .slider-info h1 {
+        font-size: 32px;
+
+    }
+    .slider-info p {
+        font-size: 15px;
+       
+    }
+    .slider-info h6 {
+        font-size: 16px;
+
+    }
+    .slider-wrap {
+        height: 62vh;
+       
+    }
+    .feature-items {
+        padding: 50px 82px;
+    }
+    .section-right {
+
+        margin-top: 60px;
+    }
+    .right-solution span {
+        font-size: 34px;
+       
+        width: 64px;
+        height: 64px;
+   
+        line-height: 64px;
+
+    }
+    .right-solution a {
+       
+        font-size: 24px;
+
+    }
+    .touch-section strong {
+        font-size: 13px;
+    }
+    .touch-section span {
+       
+        font-size: 22px;
+
+    }
+    .touch-section {
+        padding: 29px 13px;
+    }
+    .team-member {
+        margin-top: 20px;
+    }
+}
+@media (max-width:479px) {}
